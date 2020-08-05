@@ -16,7 +16,7 @@ As a generalist, I have projects in diferent areas of computer science, here are
 ### General
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=Game_Engine_CPP)](https://github.com/GaEsRaRe/Game_Engine_CPP/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=Game_Engine_CPP)](https://github.com/GaEsRaRe/A_star_LUA_game/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=A_star_LUA_game)](https://github.com/GaEsRaRe/A_star_LUA_game/)
 
 ### Machine Learning
 
