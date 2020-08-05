@@ -16,7 +16,7 @@ As a generalist, I have projects in diferent areas of computer science, here are
 
 ### Machine Learning
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=BayesianEngineCPP)](BayesianEngineCPP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=BayesianEngineCPP)](https://github.com/GaEsRaRe/BayesianEngineCPP/)
 
 ### Software Engineering
 
@@ -39,5 +39,5 @@ Mail:
 [Mail]: mailto:gaesrare@gmail.com
 [Linkedin]: https://www.linkedin.com/in/justsomecode/
 
-[Bayesian]: BayesianEngineCPP
+
 
