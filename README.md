@@ -6,10 +6,9 @@
 - Certificate in Project Management and Data Science at [UCI]
 - Interested in both Data Science and Software Development.
 - Currently learning: Flutter, Hadoop
-- Current goal: To be more active in the dev community
-- 
+- Current goal: To be more active in the dev community 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaEsRaRe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaEsRaRe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects 
 As a generalist, I have projects in diferent areas of computer science, here are some of my proudest achievements:
@@ -28,7 +27,7 @@ As a generalist, I have projects in diferent areas of computer science, here are
 
 
 ### Contact me
-Mail:
+
 <br>
 [<img align="left" alt="GaEsRaRe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="GaEsRaRe | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
