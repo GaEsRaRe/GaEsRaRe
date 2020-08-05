@@ -14,22 +14,26 @@
 ## Projects 
 As a generalist, I have projects in diferent areas of computer science, here are some of my proudest achievements:
 
+### General
+
+- 2D C++ Game Engine: A basic C++ game framework [Link]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=Game_Engine_CPP)](https://github.com/GaEsRaRe/Game_Engine_CPP/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=Game_Engine_CPP)](https://github.com/GaEsRaRe/A_star_LUA_game/)
+
 ### Machine Learning
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=BayesianEngineCPP)](https://github.com/GaEsRaRe/BayesianEngineCPP/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=papers)](https://github.com/GaEsRaRe/papers/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=ImageProcessing_Projects)](https://github.com/GaEsRaRe/ImageProcessing_Projects/)
 
-### Software Engineering
-
-- 2D C++ Game Engine: A basic C++ game framework [Link]
-
-### Software Development
 
 
 ### Contact me
 Mail:
-[Gmail][Mail]
 <br>
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="GaEsRaRe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="GaEsRaRe | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
+
 
 
 
