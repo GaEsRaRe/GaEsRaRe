@@ -16,7 +16,6 @@ As a generalist, I have projects in diferent areas of computer science, here are
 
 ### General
 
-- 2D C++ Game Engine: A basic C++ game framework [Link]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=Game_Engine_CPP)](https://github.com/GaEsRaRe/Game_Engine_CPP/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaEsRaRe&repo=Game_Engine_CPP)](https://github.com/GaEsRaRe/A_star_LUA_game/)
 
