@@ -1,5 +1,5 @@
 # Hi, I'm Gabriel Ramirez
-### Welcome to my GitHub
+### Welcome to my GitHub    
 
 ## About me
 - B.S in Computer Science at [UPC]
@@ -29,6 +29,7 @@ As a generalist, I have projects in diferent areas of computer science, here are
 ### Contact me
 
 <br>
+
 [<img align="left" alt="GaEsRaRe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="GaEsRaRe | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Mail]
 
