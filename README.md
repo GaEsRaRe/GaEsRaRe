@@ -8,7 +8,7 @@
 - Currently learning: Flutter, Hadoop
 - Current goal: To be more active in the dev community 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaEsRaRe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaEsRaRe&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects 
 As a generalist, I have projects in diferent areas of computer science, here are some of my proudest achievements:
