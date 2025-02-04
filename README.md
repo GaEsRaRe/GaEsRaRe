@@ -4,6 +4,7 @@
 ## About me
 - B.S in Computer Science at [UPC]
 - Certificate in Project Management and Data Science at [UCI]
+- Msc Advanced Computer Science at University of Manchester (Ongoing)
 - Interested in both Data Science and Software Development.
 - Currently learning: FastApi, Golang
 - Current goal: To be more active in the dev community 
