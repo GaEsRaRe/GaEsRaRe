@@ -6,9 +6,7 @@
 - Certificate in Project Management and Data Science at [UCI]
 - Msc Advanced Computer Science at University of Manchester (Ongoing)
 - Interested in both Data Science and Software Development.
-- Currently learning: FastApi, Golang
-- Current goal: To be more active in the dev community 
-
+- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaEsRaRe&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects 
